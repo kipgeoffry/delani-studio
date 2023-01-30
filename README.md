@@ -38,4 +38,4 @@ which gives a detailed account about what they are, the services they offer, pro
 Copyright (c) 2022 kip geoffry
 ​
 ## Contact information
-To collaborate, reach me on [Email](kipgeoffry@gmail.com)
+To contribute & collaborate, reach me on email [kipgeoffry@gmail.com]
