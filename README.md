@@ -34,7 +34,7 @@ which gives a detailed account about what they are, the services they offer, pro
 * It is unresponsive on some devices with less than 480px resolution
 ​
 ## License
-> MIT License 
+> This work is covered under the terms of MIT License 
 Copyright (c) 2022 kip geoffry
 ​
 ## Contact information
