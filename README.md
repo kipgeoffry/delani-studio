@@ -35,7 +35,7 @@ which gives a detailed account about what they are, the services they offer, pro
 ​
 ## License
 > This work is covered under the terms of MIT License 
-Copyright (c) 2022 kip geoffry
+Copyright (c) 2023 kip geoffry
 ​
 ## Contact information
 To contribute & collaborate, reach me on email [kipgeoffry@gmail.com]
