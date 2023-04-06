@@ -9,13 +9,13 @@ A webpage for Delani studio which gives a detailed account about who they are, t
  > kip geoffry
 ​
  ## Instalation/Setup
- > git clone https://github.com/kipgeoffry/delani-studio.git
- > extract the file. 
- > cd to the delani-studio directory. 
- > Open the ``index.html`` on your favorite browser.
+ - git clone https://github.com/kipgeoffry/delani-studio.git
+ - extract the file. 
+ - cd to the delani-studio directory. 
+ - Open the ``index.html`` on your favorite browser.
 
  ## Behavior Driven Development
- This is a project that puts into action all the aspects of behavior driven development.Purposefully hands on learning the concept and all the technologies used.
+ This is a project that puts into action all the aspects of behavior driven development.Purposefully hands on learning of the concept and all the technologies used.
 ​
 ## Technologies used.
   * Html5

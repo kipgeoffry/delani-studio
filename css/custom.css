@@ -1,0 +1,19 @@
+#hd1{
+    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-size: cover;
+
+}
+
+.hd-sub h3 {
+    color: white;
+    font-size: 2em;
+}
+
+.hd-sub p{
+    color: white;
+    font-size: 1rem;
+}
+.masthead {
+    padding-top: calc(4rem + 74px);
+    padding-bottom: 2rem;
+}
