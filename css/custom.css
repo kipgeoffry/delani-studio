@@ -1,7 +1,11 @@
 #hd1{
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-size: cover;
-
+    
+}
+#srvs{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-size: cover;
 }
 
 .hd-sub h3 {
@@ -17,3 +21,15 @@
     padding-top: calc(4rem + 74px);
     padding-bottom: 2rem;
 }
+.masthead-srv{
+    display: flex;
+    align-items: center;
+    padding-top: calc(4rem + 28px);
+    padding-bottom: 2rem;
+    color: white;
+}
+.crd{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    }
