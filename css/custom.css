@@ -58,6 +58,10 @@
 .font-w{
     color: white;
 }
+.font-siz{
+    font-size: 0.915em;
+    font-family: 600;
+}
 
 form #contact{
     background-color: rgba(0, 0, 0, 0);
