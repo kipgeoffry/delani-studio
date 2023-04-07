@@ -41,15 +41,19 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
-
 }
 
-.flex-wh{
-    margin-left: 12px;
-    margin-bottom: 18px;
-    
-    
-    
-
+.contact-us {
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    background-size:cover;
+    display: cover;
+    padding: 5%;
 }
+.footer {
+    color: black;
+    justify-content: center;
+    text-align: center;
+    font-size: x-small;
+    font-family: 'Amaranth', sans-serif;
+  }
+
