@@ -2,10 +2,13 @@
     box-sizing: border-box;
     font-family: 'Quicksand', sans-serif;
 
-    }
-    html{
+  }
+      html{
         background-color: #f1f1f1;
     }
+body{
+    background-color: white;
+}
 #hd1{
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-size: cover;
