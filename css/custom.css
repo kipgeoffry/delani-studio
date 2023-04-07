@@ -1,7 +1,11 @@
 *{
     box-sizing: border-box;
     font-family: 'Quicksand', sans-serif;
-}
+
+    }
+    html{
+        background-color: #f1f1f1;
+    }
 #hd1{
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-size: cover;
@@ -59,7 +63,7 @@
     color: white;
 }
 .font-siz{
-    font-size: 0.915em;
+    font-size: 0.9em;
     font-family: 600;
 }
 
