@@ -93,4 +93,10 @@ form #contact{
     font-size: x-small;
     font-family: 'Amaranth', sans-serif;
   }
-
+.what-we-do{
+    display: none;    
+}
+.px-7{
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
